@@ -11,5 +11,5 @@ A compilation of resources for OS.
 - [Shell and system calls](https://www.serveradminz.com/blog/whats-difference-linux-shell-command-system-call/)
 
 ### Process and Process Scheduling
-- [Process in OS](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+- [Process in OS](https://github.com/2tanayk/OS-Resources/blob/main/process.md)
 - [Process states](https://github.com/2tanayk/OS-Resources/blob/main/process_states.md)
