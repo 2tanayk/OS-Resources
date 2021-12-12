@@ -9,3 +9,6 @@ A compilation of resources for OS.
 - [Kernel in OS](https://www.geeksforgeeks.org/kernel-in-operating-system/)
 - [User space vs kernel space](https://unix.stackexchange.com/questions/87625/what-is-difference-between-user-space-and-kernel-space)
 - [Shell and system calls](https://www.serveradminz.com/blog/whats-difference-linux-shell-command-system-call/)
+
+### Process and Process Scheduling
+- [Concept of a process](https://www.tutorialspoint.com/operating_system/os_processes.htm)
