@@ -7,3 +7,4 @@ A compilation of resources for OS.
 - [Types of OS](https://www.geeksforgeeks.org/types-of-operating-systems/)
 - [Structures of OS](https://www.geeksforgeeks.org/different-approaches-or-structures-of-operating-systems/)
 - [Kernel in OS](https://www.geeksforgeeks.org/kernel-in-operating-system/)
+- [User space vs kernel space](https://unix.stackexchange.com/questions/87625/what-is-difference-between-user-space-and-kernel-space)
