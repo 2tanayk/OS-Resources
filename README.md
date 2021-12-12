@@ -8,3 +8,4 @@ A compilation of resources for OS.
 - [Structures of OS](https://www.geeksforgeeks.org/different-approaches-or-structures-of-operating-systems/)
 - [Kernel in OS](https://www.geeksforgeeks.org/kernel-in-operating-system/)
 - [User space vs kernel space](https://unix.stackexchange.com/questions/87625/what-is-difference-between-user-space-and-kernel-space)
+- [Shell and system calls](https://www.serveradminz.com/blog/whats-difference-linux-shell-command-system-call/)
