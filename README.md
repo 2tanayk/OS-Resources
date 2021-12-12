@@ -12,3 +12,4 @@ A compilation of resources for OS.
 
 ### Process and Process Scheduling
 - [Concept of a process](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+- [Process states]()
