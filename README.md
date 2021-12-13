@@ -23,3 +23,4 @@ A compilation of resources for OS.
 - [Mutual exclusion in process synchronization](https://www.geeksforgeeks.org/mutual-exclusion-in-synchronization/)
 - [Hardware support for mutual exclusion](https://stackoverflow.com/questions/49547034/hardware-supported-mutual-exclusion)
 - [Semaphores for process synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
+- [Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
