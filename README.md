@@ -25,3 +25,4 @@ A compilation of resources for OS.
 - [Semaphores for process synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
 - [Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
 - [Resource allocation graphs](https://www.geeksforgeeks.org/resource-allocation-graph-rag-in-operating-system/)
+- [Deadlock prevention and avoidance](https://github.com/2tanayk/OS-Resources/blob/main/deadlock_prev_avoid.md)
