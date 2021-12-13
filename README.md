@@ -22,3 +22,4 @@ A compilation of resources for OS.
 - [Inter Process Communication(IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
 - [Mutual exclusion in process synchronization](https://www.geeksforgeeks.org/mutual-exclusion-in-synchronization/)
 - [Hardware support for mutual exclusion](https://stackoverflow.com/questions/49547034/hardware-supported-mutual-exclusion)
+- [Semaphores for process synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
