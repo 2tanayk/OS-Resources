@@ -24,3 +24,4 @@ A compilation of resources for OS.
 - [Hardware support for mutual exclusion](https://stackoverflow.com/questions/49547034/hardware-supported-mutual-exclusion)
 - [Semaphores for process synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
 - [Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+- [Resource allocation graphs](https://www.geeksforgeeks.org/resource-allocation-graph-rag-in-operating-system/)
