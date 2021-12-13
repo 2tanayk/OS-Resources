@@ -15,3 +15,6 @@ A compilation of resources for OS.
 - [Process states](https://github.com/2tanayk/OS-Resources/blob/main/process_states.md)
 - [Process scheduling in OS](https://github.com/2tanayk/OS-Resources/blob/main/process_scheduling.md)
 - [Threads in OS](https://github.com/2tanayk/OS-Resources/blob/main/threads.md)
+
+### Process Synchronization and Deadlocks
+- [Concurrency in OS](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
