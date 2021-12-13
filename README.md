@@ -17,4 +17,5 @@ A compilation of resources for OS.
 - [Threads in OS](https://github.com/2tanayk/OS-Resources/blob/main/threads.md)
 
 ### Process Synchronization and Deadlocks
+- [Introduction of process synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 - [Concurrency in OS](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
