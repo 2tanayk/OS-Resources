@@ -27,3 +27,4 @@ A compilation of resources for OS.
 - [Resource allocation graphs](https://www.geeksforgeeks.org/resource-allocation-graph-rag-in-operating-system/)
 - [Deadlock prevention and avoidance](https://github.com/2tanayk/OS-Resources/blob/main/deadlock_prev_avoid.md)
 - [Deadlock detection and recovery](https://www.geeksforgeeks.org/deadlock-detection-recovery/)
+- [Dining philosopher's problem](https://github.com/2tanayk/OS-Resources/blob/main/dining_philosopher.md)
