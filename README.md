@@ -21,3 +21,4 @@ A compilation of resources for OS.
 - [Concurrency in OS](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
 - [Inter Process Communication(IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
 - [Mutual exclusion in process synchronization](https://www.geeksforgeeks.org/mutual-exclusion-in-synchronization/)
+- [Hardware support for mutual exclusion](https://stackoverflow.com/questions/49547034/hardware-supported-mutual-exclusion)
