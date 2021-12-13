@@ -26,3 +26,4 @@ A compilation of resources for OS.
 - [Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
 - [Resource allocation graphs](https://www.geeksforgeeks.org/resource-allocation-graph-rag-in-operating-system/)
 - [Deadlock prevention and avoidance](https://github.com/2tanayk/OS-Resources/blob/main/deadlock_prev_avoid.md)
+- [Deadlock detection and recovery](https://www.geeksforgeeks.org/deadlock-detection-recovery/)
