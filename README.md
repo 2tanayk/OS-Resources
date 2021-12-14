@@ -28,3 +28,6 @@ A compilation of resources for OS.
 - [Deadlock prevention and avoidance](https://github.com/2tanayk/OS-Resources/blob/main/deadlock_prev_avoid.md)
 - [Deadlock detection and recovery](https://www.geeksforgeeks.org/deadlock-detection-recovery/)
 - [Dining philosopher's problem](https://github.com/2tanayk/OS-Resources/blob/main/dining_philosopher.md)
+
+### Memory Management
+- [Memory management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
