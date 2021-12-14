@@ -37,3 +37,4 @@ A compilation of resources for OS.
 - [Paging in OS](https://www.geeksforgeeks.org/paging-in-operating-system/)
 - [Segmentation in OS](https://www.javatpoint.com/os-segmentation)
 - [Paging vs Segmentation](https://www.geeksforgeeks.org/difference-between-paging-and-segmentation/)
+- [Virtual memory, demand paging and demand segmentation in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
