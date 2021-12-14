@@ -32,3 +32,5 @@ A compilation of resources for OS.
 ### Memory Management
 - [Memory management requirements](https://www.geeksforgeeks.org/requirements-of-memory-management-system/)
 - [Memory management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+- [Fixed or static partitioning](https://www.geeksforgeeks.org/fixed-or-static-partitioning-in-operating-system/)
+- [Variable or dynamic partitioning](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/)
