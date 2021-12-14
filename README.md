@@ -34,3 +34,4 @@ A compilation of resources for OS.
 - [Memory management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
 - [Fixed or static partitioning](https://www.geeksforgeeks.org/fixed-or-static-partitioning-in-operating-system/)
 - [Variable or dynamic partitioning](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/)
+- [Paging in OS](https://www.geeksforgeeks.org/paging-in-operating-system/)
