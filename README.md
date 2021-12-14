@@ -30,4 +30,5 @@ A compilation of resources for OS.
 - [Dining philosopher's problem](https://github.com/2tanayk/OS-Resources/blob/main/dining_philosopher.md)
 
 ### Memory Management
+- [Memory management requirements](https://www.geeksforgeeks.org/requirements-of-memory-management-system/)
 - [Memory management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
