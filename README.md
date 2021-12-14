@@ -35,4 +35,4 @@ A compilation of resources for OS.
 - [Fixed or static partitioning](https://www.geeksforgeeks.org/fixed-or-static-partitioning-in-operating-system/)
 - [Variable or dynamic partitioning](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/)
 - [Paging in OS](https://www.geeksforgeeks.org/paging-in-operating-system/)
-- [Segmentation in OS](https://www.geeksforgeeks.org/segmentation-in-operating-system/)
+- [Segmentation in OS](https://www.javatpoint.com/os-segmentation)
