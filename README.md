@@ -36,3 +36,4 @@ A compilation of resources for OS.
 - [Variable or dynamic partitioning](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/)
 - [Paging in OS](https://www.geeksforgeeks.org/paging-in-operating-system/)
 - [Segmentation in OS](https://www.javatpoint.com/os-segmentation)
+- [Paging vs Segmentation](https://www.geeksforgeeks.org/difference-between-paging-and-segmentation/)
