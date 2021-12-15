@@ -41,4 +41,5 @@ A compilation of resources for OS.
 - [Page replacement algorithms in OS](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
 
 ### File Management
+- [File system in OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
 - [The file management system](https://www.techopedia.com/definition/1832/file-management-system)
