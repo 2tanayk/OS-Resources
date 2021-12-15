@@ -46,3 +46,4 @@ A compilation of resources for OS.
 - [File access methods in OS](https://www.geeksforgeeks.org/file-access-methods-in-operating-system/)
 - [File organization methods in OS](https://peda.net/kenya/css/subjects/computer-studies/form-three/driac2/data-processing/fom)
 - [File directories and their structures in OS](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/)
+- [File sharing](https://www.techopedia.com/definition/16256/file-sharing)
