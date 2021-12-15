@@ -47,3 +47,5 @@ A compilation of resources for OS.
 - [File organization methods in OS](https://peda.net/kenya/css/subjects/computer-studies/form-three/driac2/data-processing/fom)
 - [File directories and their structures in OS](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/)
 - [File sharing](https://www.techopedia.com/definition/16256/file-sharing)
+
+### I/O management
