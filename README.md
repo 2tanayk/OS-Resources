@@ -49,3 +49,4 @@ A compilation of resources for OS.
 - [File sharing](https://www.techopedia.com/definition/16256/file-sharing)
 
 ### I/O management
+- [I/O in OS](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
