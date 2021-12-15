@@ -44,3 +44,4 @@ A compilation of resources for OS.
 - [File system in OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
 - [The file management system](https://www.techopedia.com/definition/1832/file-management-system)
 - [File access methods in OS](https://www.geeksforgeeks.org/file-access-methods-in-operating-system/)
+- [File organization methods in OS](https://peda.net/kenya/css/subjects/computer-studies/form-three/driac2/data-processing/fom)
