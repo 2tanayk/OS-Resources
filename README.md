@@ -50,4 +50,4 @@ A compilation of resources for OS.
 
 ### I/O management
 - [I/O in OS](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
-- [Disk management in OS](https://www.geeksforgeeks.org/disk-management-in-operating-system/)
+- [Disk organization and management in OS](https://github.com/2tanayk/OS-Resources/blob/main/disk.md)
