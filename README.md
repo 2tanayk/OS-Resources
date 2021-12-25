@@ -53,6 +53,7 @@ A compilation of resources for OS.
 - [Disk organization and management in OS](https://github.com/2tanayk/OS-Resources/blob/main/disk.md)
 - [Disk scheduling and its algorithms in OS](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)
 
+<br>
 ## Interview Preparation Materials
 - [OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 - [OS MCQs(chapter wise)](https://www.sanfoundry.com/operating-system-questions-answers/#operating-system-chapters)
