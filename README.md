@@ -39,6 +39,7 @@ A compilation of resources for OS.
 - [Segmentation in OS](https://www.javatpoint.com/os-segmentation)
 - [Paging vs Segmentation](https://www.geeksforgeeks.org/difference-between-paging-and-segmentation/)
 - [Virtual memory, demand paging and thrashing in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+- [Swapping in OS](https://www.javatpoint.com/swapping-in-operating-system)
 - [Page replacement algorithms in OS](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
 
 ### File Management
