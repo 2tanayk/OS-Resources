@@ -58,6 +58,10 @@ A compilation of resources for OS.
 - [How many CPUs does my laptop have?](https://www.quora.com/How-do-I-find-out-how-many-processors-my-computer-has-What-can-I-use-this-information-for)
 - [What is a CPU core?](https://www.google.com/amp/s/www.tomshardware.com/amp/news/cpu-core-definition,37658.html)
 - [CPU vs Core](https://www.quora.com/What-is-the-difference-between-a-CPU-core-and-a-processor?)
+- [Difference between Multiprogramming, multitasking, multithreading and multiprocessing](https://www.geeksforgeeks.org/difference-between-multitasking-multithreading-and-multiprocessing/)
+- [What is transient in OS?](https://practice.geeksforgeeks.org/problems/what-is-transient)
+- [Latency and Jitter in OS](https://www.google.com/amp/s/www.geeksforgeeks.org/difference-between-latency-and-jitter-in-os/amp/)
+- [Why can't OS swap out processes that are waiting for I/O?](https://cs.stackexchange.com/questions/89767/why-cant-oses-swap-out-processes-that-are-waiting-for-i-o)
 ## Interview Preparation Materials
 - [OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 - [OS MCQs(chapter wise)](https://www.sanfoundry.com/operating-system-questions-answers/#operating-system-chapters)
