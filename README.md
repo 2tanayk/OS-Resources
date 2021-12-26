@@ -54,6 +54,12 @@ A compilation of resources for OS.
 - [Disk organization and management in OS](https://github.com/2tanayk/OS-Resources/blob/main/disk.md)
 - [Disk scheduling and its algorithms in OS](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)
 
+### Miscellaneous
+- [How many CPUs does my laptop have?](https://www.quora.com/How-do-I-find-out-how-many-processors-my-computer-has-What-can-I-use-this-information-for)
+- [What is a CPU core?](https://www.google.com/amp/s/www.tomshardware.com/amp/news/cpu-core-definition,37658.html)
+- [CPU vs Core](https://www.quora.com/What-is-the-difference-between-a-CPU-core-and-a-processor?)
 ## Interview Preparation Materials
 - [OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 - [OS MCQs(chapter wise)](https://www.sanfoundry.com/operating-system-questions-answers/#operating-system-chapters)
+
+
