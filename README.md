@@ -67,6 +67,6 @@ A compilation of resources for OS.
 ## Interview Preparation Materials
 - [OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 - [OS MCQs(chapter wise)](https://www.sanfoundry.com/operating-system-questions-answers/#operating-system-chapters)
-- [Practice Problems on CPU scheduling](https://www.gatevidyalay.com/cpu-scheduling-practice-problems-numericals/)
-
+- [Practice problems on CPU scheduling](https://www.gatevidyalay.com/cpu-scheduling-practice-problems-numericals/)
+- [Problems on Process synchronization](https://www.gatevidyalay.com/process-synchronization-practice-problems/)
 
