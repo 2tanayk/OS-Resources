@@ -39,7 +39,7 @@ A compilation of resources for OS.
 - [Paging in OS](https://github.com/2tanayk/OS-Resources/blob/main/paging_os.md)
 - [Segmentation in OS](https://www.javatpoint.com/os-segmentation)
 - [Paging vs Segmentation](https://www.geeksforgeeks.org/difference-between-paging-and-segmentation/)
-- [Virtual memory, demand paging and thrashing in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+- [Virtual memory in OS](https://github.com/2tanayk/OS-Resources/blob/main/virtual_memory.md)
 - [Swapping in OS](https://www.javatpoint.com/swapping-in-operating-system)
 - [Page replacement algorithms in OS](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
 
