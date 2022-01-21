@@ -68,5 +68,6 @@ A compilation of resources for OS.
 - [OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 - [OS MCQs(chapter wise)](https://www.sanfoundry.com/operating-system-questions-answers/#operating-system-chapters)
 - [Practice problems on CPU scheduling](https://www.gatevidyalay.com/cpu-scheduling-practice-problems-numericals/)
-- [Problems on Process synchronization](https://www.gatevidyalay.com/process-synchronization-practice-problems/)
+- [Problems on process synchronization](https://www.gatevidyalay.com/process-synchronization-practice-problems/)
+- [Problems on deadlock in OS](https://www.gatevidyalay.com/deadlock-in-os-deadlock-problems-questions/)
 
