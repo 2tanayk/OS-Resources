@@ -36,7 +36,7 @@ A compilation of resources for OS.
 - [Memory management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
 - [Fixed or static partitioning](https://www.geeksforgeeks.org/fixed-or-static-partitioning-in-operating-system/)
 - [Variable or dynamic partitioning](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/)
-- [Paging in OS](https://www.geeksforgeeks.org/paging-in-operating-system/)
+- [Paging in OS](https://github.com/2tanayk/OS-Resources/blob/main/paging_os.md)
 - [Segmentation in OS](https://www.javatpoint.com/os-segmentation)
 - [Paging vs Segmentation](https://www.geeksforgeeks.org/difference-between-paging-and-segmentation/)
 - [Virtual memory, demand paging and thrashing in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
