@@ -64,6 +64,7 @@ A compilation of resources for OS.
 - [What is transient in OS?](https://practice.geeksforgeeks.org/problems/what-is-transient)
 - [Latency and Jitter in OS](https://www.google.com/amp/s/www.geeksforgeeks.org/difference-between-latency-and-jitter-in-os/amp/)
 - [Why can't OS swap out processes that are waiting for I/O?](https://cs.stackexchange.com/questions/89767/why-cant-oses-swap-out-processes-that-are-waiting-for-i-o)
+- [Dining Philosophers Problem with Solution(video)](https://youtu.be/NbwbQQB7xNQ)
 ## Interview Preparation Materials
 - [OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 - [OS MCQs(chapter wise)](https://www.sanfoundry.com/operating-system-questions-answers/#operating-system-chapters)
