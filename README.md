@@ -19,6 +19,7 @@ A compilation of resources for OS.
 
 ### Process Synchronization and Deadlocks
 - [Introduction of process synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+- [Methods of process synchronization](https://github.com/2tanayk/OS-Resources/blob/main/process_sync.md)
 - [Concurrency in OS](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
 - [Inter Process Communication(IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
 - [Mutual exclusion in process synchronization](https://www.geeksforgeeks.org/mutual-exclusion-in-synchronization/)
