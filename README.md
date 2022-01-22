@@ -71,4 +71,5 @@ A compilation of resources for OS.
 - [Practice problems on CPU scheduling](https://www.gatevidyalay.com/cpu-scheduling-practice-problems-numericals/)
 - [Problems on process synchronization](https://www.gatevidyalay.com/process-synchronization-practice-problems/)
 - [Problems on deadlock in OS](https://www.gatevidyalay.com/deadlock-in-os-deadlock-problems-questions/)
+- [Problems on paging](https://www.gatevidyalay.com/paging-formulas-practice-problems/)
 
