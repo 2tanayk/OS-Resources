@@ -72,4 +72,5 @@ A compilation of resources for OS.
 - [Problems on process synchronization](https://www.gatevidyalay.com/process-synchronization-practice-problems/)
 - [Problems on deadlock in OS](https://www.gatevidyalay.com/deadlock-in-os-deadlock-problems-questions/)
 - [Problems on paging](https://www.gatevidyalay.com/paging-formulas-practice-problems/)
+- [Problems on page replacement algorithms](https://www.gatevidyalay.com/page-replacement-algorithms-page-fault/)
 
