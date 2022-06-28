@@ -68,6 +68,7 @@ A compilation of resources for OS.
 - [Difference between CPU and OS](https://brainly.in/question/10755088?msp_srt_exp=4)
 - [Device Drivers and Their Purpose](https://www.geeksforgeeks.org/device-driver-and-its-purpose/)
 - [What is progress and bounded waiting in critical section?](https://stackoverflow.com/questions/33143779/what-is-progress-and-bounded-waiting-in-critical-section)
+- [Semaphores explained](https://youtu.be/5y14WXehSU4)
 ## Interview Preparation Materials
 - [OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 - [OS MCQs(chapter wise)](https://www.sanfoundry.com/operating-system-questions-answers/#operating-system-chapters)
