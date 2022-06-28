@@ -66,6 +66,7 @@ A compilation of resources for OS.
 - [Why can't OS swap out processes that are waiting for I/O?](https://cs.stackexchange.com/questions/89767/why-cant-oses-swap-out-processes-that-are-waiting-for-i-o)
 - [Dining Philosophers Problem with Solution(video)](https://youtu.be/NbwbQQB7xNQ)
 - [Difference between CPU and OS](https://brainly.in/question/10755088?msp_srt_exp=4)
+- [Device Drivers and Their Purpose](https://www.geeksforgeeks.org/device-driver-and-its-purpose/)
 ## Interview Preparation Materials
 - [OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 - [OS MCQs(chapter wise)](https://www.sanfoundry.com/operating-system-questions-answers/#operating-system-chapters)
