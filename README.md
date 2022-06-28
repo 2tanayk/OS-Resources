@@ -69,7 +69,7 @@ A compilation of resources for OS.
 - [Device Drivers and Their Purpose](https://www.geeksforgeeks.org/device-driver-and-its-purpose/)
 - [What is progress and bounded waiting in critical section?](https://stackoverflow.com/questions/33143779/what-is-progress-and-bounded-waiting-in-critical-section)
 - [Semaphores explained(video)](https://youtu.be/5y14WXehSU4)
-- [Variable size partitioning](https://youtu.be/JdPmsrYqRDY)
+- [Variable size partitioning(video)](https://youtu.be/JdPmsrYqRDY)
 ## Interview Preparation Materials
 - [OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 - [OS MCQs(chapter wise)](https://www.sanfoundry.com/operating-system-questions-answers/#operating-system-chapters)
