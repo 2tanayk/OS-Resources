@@ -71,6 +71,7 @@ A compilation of resources for OS.
 - [Semaphores explained(video)](https://youtu.be/5y14WXehSU4)
 - [Variable size partitioning(video)](https://youtu.be/JdPmsrYqRDY)
 - [FIFO page replacement algorithm](https://www.baeldung.com/cs/fifo-page-replacement)
+- [LRU page replacement algorithm(video)](https://youtu.be/dYIoWkCvd6A)
 ## Interview Preparation Materials
 - [OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 - [OS MCQs(chapter wise)](https://www.sanfoundry.com/operating-system-questions-answers/#operating-system-chapters)
